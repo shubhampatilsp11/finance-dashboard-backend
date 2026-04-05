@@ -175,7 +175,7 @@ Role-based access control is implemented using FastAPI dependencies.
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/finance-backend.git
+git clone https://github.com/shubhampatilsp11/finance-backend.git
 cd finance-backend
 
 # Install dependencies
