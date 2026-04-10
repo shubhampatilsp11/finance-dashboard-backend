@@ -178,6 +178,15 @@ Role-based access control is implemented using FastAPI dependencies.
 git clone https://github.com/shubhampatilsp11/finance-backend.git
 cd finance-backend
 
+# Create and activate a virtual environment
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# macOS/Linux
+source venv/bin/activate
+
 # Install dependencies
 pip install -r requirements.txt
 
